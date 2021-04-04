@@ -1,1 +1,3 @@
 # Tripo
+
+Tripo is online website Template for tours, travels, trips, adventures and a wide range of other tour agencies. The main purpose of “Tripo” is to provide a convenient way for a customer to choose a destination wherever then want to travel and  accommodations and all other stuffs will be provided via tour and travel agencies for their purposes. The objective of this project is to develop a system that automates the processes and activities of a travel agency. In this project, We will make an easier task of searching places and for booking trip. In the present system a customer has to search various tours to find details of places and to book tickets.
